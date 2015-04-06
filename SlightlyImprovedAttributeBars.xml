@@ -1,0 +1,11 @@
+<GuiXml>
+	<Controls>
+		<TopLevelControl name="SlightlyImprovedAttributeBars" mouseEnabled="false">
+			<Dimensions x="10" y="10" />
+			<Anchor point="CENTER" />
+			<OnUpdate>
+				SIAB.OnUpdate()
+			</OnUpdate>
+		</TopLevelControl>
+	</Controls>
+</GuiXml>

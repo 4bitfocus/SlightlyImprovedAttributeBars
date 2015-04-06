@@ -1,0 +1,14 @@
+## Title: Slightly Improved Attribute Bars
+## Description: Adds numerical values to the player attribute bars and prevents them from fading outside of combat.
+## APIVersion: 100011
+## OptionalDependsOn: LibAddonMenu-2.0
+## SavedVariables: SIABVars
+
+Libs/LibStub/LibStub.lua
+Libs/LibAddonMenu-2.0/LibAddonMenu-2.0.lua
+Libs/LibAddonMenu-2.0/controls/panel.lua
+Libs/LibAddonMenu-2.0/controls/checkbox.lua
+Libs/LibAddonMenu-2.0/controls/slider.lua
+
+SlightlyImprovedAttributeBars.lua
+SlightlyImprovedAttributeBars.xml
