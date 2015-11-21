@@ -2,7 +2,7 @@
 SIAB = {}
 
 SIAB.name = "SlightlyImprovedAttributeBars"
-SIAB.version = "1.14"
+SIAB.version = "1.15"
 SIAB.loaded = false
 SIAB.playerLabels = {}
 SIAB.configVersion = 3
