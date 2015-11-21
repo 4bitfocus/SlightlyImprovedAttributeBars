@@ -156,7 +156,7 @@ function SIAB.Initialize(eventCode, addOnName)
 
     -- Initialize the offset to be just above the health bar
     if (SIAB.vars.targetReticleOffset == -1) then
-        SIAB.vars.targetReticleOffset = ZO_PlayerAttributeHealth:GetTop() - 175
+        SIAB.vars.targetReticleOffset = zo_floor(ZO_PlayerAttributeHealth:GetTop() - 175)
     end
 
     -- Save the original offset in case this feature is disabled
