@@ -1,7 +1,12 @@
 # Slightly Improved Attribute Bars Changelog
 
+## Version 1.15 (by haggen)
+* Updated LibAddonMenu to version 2.0r18
+* Updated API version number for 1.7
+* Fix the default vertical offset for target unit frame having too many decimal places
+
 ## Version 1.14
-* Updated LibAddonMenu to version 2.0 r17
+* Updated LibAddonMenu to version 2.0r17
 
 ## Version 1.13
 * Updated API version number for 1.5

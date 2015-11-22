@@ -1,6 +1,7 @@
 ## Title: Slightly Improved Attribute Bars
+## Version: 1.15
 ## Description: Adds numerical values to the player attribute bars and prevents them from fading outside of combat.
-## APIVersion: 100011
+## APIVersion: 100013
 ## OptionalDependsOn: LibAddonMenu-2.0
 ## SavedVariables: SIABVars
 
